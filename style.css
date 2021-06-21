@@ -1,0 +1,28 @@
+/*
+Theme Name: Harewium
+Text Domain: harew1
+Description: Harewium wordpress haber blog magazin teması.
+Version: 1.0
+Author: harew1
+Author URI: https://www.r10.net/profil/32747-harew1.html
+Tags: wordpress, wordpress haber teması, blog tema, magazin tema
+License: GNU General Public License v2.0 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.fa, .fab, .fad, .fal, .far, .fas{margin-right:4px}
+
+#icerik img {
+max-width: 100%;  
+height: auto;   
+display: block;   
+margin-left: auto;  
+margin-right: auto; 
+}
+#icerik p {
+    max-width: 100%;  
+    height: auto;   
+    display: block;   
+    margin-left: auto;  
+    margin-right: auto; 
+}
